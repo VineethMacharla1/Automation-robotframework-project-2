@@ -7,7 +7,7 @@ def gmail():
     call(['C:/Users/Vineeth -2443/PycharmProjects/pythonProject5/venv/Scripts/python.exe', '-m', 'robot',
           'C:/Users/Vineeth -2443/PycharmProjects/pythonProject5/automation/screenshot.robot'])
 
-schedule.every(30).seconds.do(gmail)
+schedule.every(6).hours.do(gmail)
 time.sleep(2)
 
 while 1:
