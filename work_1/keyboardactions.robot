@@ -9,7 +9,7 @@ Keyboardactions
     Maximize Browser Window
     sleep               9s
     presskeys           xpath://li[@id="item-0"]                               Enter
-    sleep               2s
+    sleep               5s
     presskeys           xpath://input[@class=" mr-sm-2 form-control"]          vineethmacharla
     presskeys           xpath://input[@class=" mr-sm-2 form-control"]          TAB
     Presskeys           xpath://input[@class="mr-sm-2 form-control"]           vineeth.macharla@terralogic.com
