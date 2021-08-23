@@ -9,7 +9,7 @@ Action classes
      Maximize Browser Window
      #right click action
      open context menu       xpath://img[@class="wikipedia-icon"]
-     sleep                   5s
+     sleep                   6s
      #Double click action
      double click element        xpath://button[@ondblclick="myFunction1()"]
      sleep                   10s
