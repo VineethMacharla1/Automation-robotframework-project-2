@@ -7,7 +7,7 @@ Library  SeleniumLibrary
 Keyboardactions
     open browser        https://demoqa.com/elements                            chrome
     Maximize Browser Window
-    sleep               5s
+    sleep               4s
     presskeys           xpath://li[@id="item-0"]                               Enter
     sleep               2s
     presskeys           xpath://input[@class=" mr-sm-2 form-control"]          vineethmacharla
