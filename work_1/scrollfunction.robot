@@ -7,7 +7,7 @@ LoginTest
     open browser    http://www.practiceselenium.com/practice-form.html  chrome
     maximize browser window
     input text      xpath://input[@name="firstname"]      vineeth
-    sleep               4s
+    sleep               5s
     input text      xpath://input[@name="lastname"]       macharla
     click element   xpath://input[@value="Male"]
     click element   xpath://input[@value="5"]
